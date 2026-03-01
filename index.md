@@ -35,4 +35,4 @@ This privacy policy may be updated at any time. Continued use of the App means y
 ## Contact
 
 For any questions, contact:
-[yashmantri@example.com](mailto:yashmantri@example.com)
+[support@flipflops.com](mailto:support@flipflops.com)
