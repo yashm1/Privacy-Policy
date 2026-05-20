@@ -1,38 +1,25 @@
 # Privacy Policy
-
 Last updated: February 2026
 
-This application SwipePrep is developed by Yash Mantri.
+This application SwipePrep is developed by Flipflops.
 
 ## Information We Collect
+We do not collect or store any personal data directly. The App does not track or share any information about you or your device.
 
-The App may collect limited technical information such as device type, operating system version, and crash logs to improve performance and stability.
-
-The App does not sell, rent, or share personal data with third parties.
-
-If you sign in, your authentication information is handled securely by the authentication provider and is not stored directly by the App.
+## Sign In
+The App offers sign in with Apple and sign in with Google. Authentication is handled entirely by Apple and Google respectively. We do not store your credentials or personal profile information on our servers. Please refer to Apple's and Google's privacy policies for details on how they handle your data.
 
 ## Permissions
-
 The App may request internet access in order to function properly.
 
-## Analytics
-
-The App may use analytics services to understand usage and improve features. These services may collect anonymized usage data.
-
 ## Data Storage
+We do not store any personal information on our servers.
 
-We do not store personal information on our own servers. Any stored data is used only for app functionality.
-
-## Children’s Privacy
-
+## Children's Privacy
 The App is not directed toward children under 13.
 
 ## Changes
-
 This privacy policy may be updated at any time. Continued use of the App means you accept the updated policy.
 
 ## Contact
-
-For any questions, contact:
-[support@flipflops.com](mailto:support@flipflops.com)
+For any questions, contact: [support@flipflops.com](mailto:support@flipflops.com)
